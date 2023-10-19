@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ClassicArcade/Scenes/MainMenu.unity
+    guid: 10fe00cb8146c954b846b4f605eaf1d1
+  - enabled: 1
+    path: Assets/MissileCommand/Scenes/MissileStartScreen.unity
+    guid: 70833cfd5f58dca4c885b5a9bdffb31f
+  - enabled: 1
+    path: Assets/MissileCommand/Scenes/MissileLevel01.unity
+    guid: d017820e73f7b214fb09986a12e6558c
+  - enabled: 1
+    path: Assets/MissileCommand/Scenes/MissileEndScreen.unity
+    guid: ec837804bf9e5144db62424c5244dd6e
+  - enabled: 1
+    path: Assets/Invaders/Invaders_GameScene.unity
+    guid: ebf0382e72667784aa9703a071048f40
+  - enabled: 1
+    path: Assets/Invaders/Invaders_MainMenu.unity
+    guid: f875fa8bda8caab4386b9e0ceb43ca5d
+  - enabled: 1
+    path: Assets/Invaders/Invaders_RestartMenu.unity
+    guid: 96381a89114093448b0e7befdd7923cf
+  - enabled: 1
+    path: Assets/Shoot-Em-Up/Scenes/Shoot_Menu.unity
+    guid: 2efcdb613448b4549b89feb6a0d76a89
+  - enabled: 1
+    path: Assets/Shoot-Em-Up/Scenes/Shoot_Game.unity
+    guid: a2e15f7014214ab46b938fa839af46aa
+  - enabled: 1
+    path: Assets/Shoot-Em-Up/Scenes/Shoot_EndScene.unity
+    guid: b19f105c69c87da418f4ed189cf69c9b
+  - enabled: 1
+    path: Assets/Galaga/Scenes/Galaga_MainMenu.unity
+    guid: c7418b7e88cd14147b53a54e126a960f
+  - enabled: 1
+    path: Assets/Galaga/Scenes/Galaga_Game.unity
+    guid: 598235ef8b9a64e4692612ade9f67068
+  - enabled: 1
+    path: Assets/Galaga/Scenes/Galaga_EndMenu.unity
+    guid: cee5d70f6a66a324fbda4f229f6dcadc
+  m_configObjects: {}
